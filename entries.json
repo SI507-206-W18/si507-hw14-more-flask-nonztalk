@@ -1,1 +1,1 @@
-[{"author": "asdf", "text": "adsfasd", "timestamp": "Apr 12, 2018 6:47 AM"}]
+[{"author": "UserN", "text": "Emmmm ....", "timestamp": "Apr 21, 2018 10:42 PM", "next_id": "7"}, {"author": "User3", "text": "This id should be 4", "timestamp": "Apr 21, 2018 10:41 PM", "next_id": "4"}, {"author": "User3", "text": "And repeat ...", "timestamp": "Apr 21, 2018 10:40 PM", "next_id": "2"}, {"author": "User1", "text": "Now we have id starts with 0", "timestamp": "Apr 21, 2018 10:39 PM", "next_id": "0"}]
